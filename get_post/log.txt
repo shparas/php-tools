@@ -1,0 +1,34 @@
+2018-03-15 11:33:31am    http://homelc.eparas.com/tools/get_post/?get=123
+
+	GET   (key => value)
+	--------------------
+get   =>   123
+
+	POST   (key => value)
+	---------------------
+lsd   =>   AVoRa7jA
+display   =>   
+enable_profile_selector   =>   
+isprivate   =>   
+legacy_return   =>   0
+profile_selector_ids   =>   
+return_session   =>   
+skip_api_login   =>   
+signed_next   =>   
+trynum   =>   1
+timezone   =>   300
+lgndim   =>   eyJ3IjoxOTIwLCJoIjoxMDgwLCJhdyI6MTkyMCwiYWgiOjEwNDAsImMiOjI0fQ==
+lgnrnd   =>   043236_ClKr
+lgnjs   =>   1521113557
+email   =>   testUSR
+pass   =>   testPASS
+prefill_contact_point   =>   
+prefill_source   =>   
+prefill_type   =>   
+first_prefill_source   =>   
+first_prefill_type   =>   
+had_cp_prefilled   =>   false
+had_password_prefilled   =>   false
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
